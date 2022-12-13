@@ -8,7 +8,7 @@ const initialState = {
 
 
 const filterSlice = createSlice({
-    name: 'filter',
+    name: 'video',
     initialState,
 
     reducers: {
